@@ -38,23 +38,11 @@ I enjoy transforming technical challenges into clean, efficient, and reliable so
 #### 🌿 Smart Greenhouse Automation (Django + React)
 Real-time monitoring & automated environmental control with dual backend architecture.
 
-<!--
-#### 🎧 International Music Production Shop
-Platform for selling music courses, sound libraries, and digital production assets.  
-🔗 Live: *(add your link)*
--->
-
 #### 🖥️ Skin Cancer Treatment Device GUI (PyQt + Flutter)
 Designed and implemented user interfaces for a clinical skin cancer treatment device. Delivered both a PyQt desktop control panel for clinicians and a Flutter-based monitoring UI, prioritizing usability, safety, and real-time device control.
 
 #### 🧠 Customer Loyalty System (Django + Flutter)
 Multi-role loyalty system with AI-powered product recommendations and real-time sync.
-
-<!--
-#### 📚 Vocabulary Learning Platform (Django + Flutter)
-Language learning app with spaced repetition, progress tracking, and Flutter mobile client.  
-🔗 Google Play: *(add your link)*
--->
 
 #### 📦 Inventory Management App (Flutter)
 Warehouse management system with multi-user access and real-time operations.
@@ -75,18 +63,9 @@ Full e-commerce system supporting multiple sellers, digital content, and complet
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redis-D82C20?style=for-the-badge&logo=redis&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-</p>
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=AmirMohammadBazdar&show_icons=true&theme=tokyonight"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirMohammadBazdar&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
